@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d910b0ea-aa92-4df9-ae32-2007399b457b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/list/ArrayListLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/list/stackLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/map/HashMapLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/map/TreeMapLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/miscelleneous/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/miscelleneous/StudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/queue/ArrayDequeLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/queue/LinkedListLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/queue/PriorityQueueLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/set/HashSetLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/set/LinkedHashSetLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learning/collections/set/TreeSetLearn.java" afterDir="false" />
-    </list>
+    <list default="true" id="d910b0ea-aa92-4df9-ae32-2007399b457b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +139,7 @@
       <updated>1690207936609</updated>
       <workItem from="1690207937644" duration="5113000" />
       <workItem from="1690295300561" duration="5186000" />
-      <workItem from="1690462058006" duration="12494000" />
+      <workItem from="1690462058006" duration="12800000" />
     </task>
     <servers />
   </component>
